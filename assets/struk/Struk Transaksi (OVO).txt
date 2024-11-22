@@ -1,0 +1,23 @@
+           Kasir.com
+     Jl.Soekarno Hatta No.9,
+    Jatimulyo, Kec.Lowokwaru
+        Kota Malang 65141
+                             
+           TABLE:4        
+Customer:hilman	     Id Kasir:4
+-------------------------------
+-------------------------------
+1  Es Teh		 5000
+1  Cireng		 8000
+-------------------------------
+-------------------------------
+Subtotal 		 13000
+Ppn 			 1300
+-------------------------------
+TOTAL 			 14300
+Cash 			 14300
+Kembalian 		 0
+                             
+          Via ovo 
+<-----2024/11/22 18:38:18----->
+         Terima Kasih

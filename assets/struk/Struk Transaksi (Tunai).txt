@@ -1,0 +1,24 @@
+           Kasir.com
+     Jl.Soekarno Hatta No.9,
+    Jatimulyo, Kec.Lowokwaru
+        Kota Malang 65141
+                             
+           TABLE:5        
+Customer:kiki	     Id Kasir:4
+-------------------------------
+-------------------------------
+1  Es Teh		 5000
+1  Donat		 12000
+1  Cireng		 8000
+-------------------------------
+-------------------------------
+Subtotal 		 25000
+Ppn 			 2500
+-------------------------------
+TOTAL 			 27500
+Cash 			 50000
+Kembalian 		 22500
+                             
+          Via tunai 
+<-----2024/11/21 23:26:59----->
+         Terima Kasih
